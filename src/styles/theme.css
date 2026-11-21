@@ -15,10 +15,10 @@
 [data-theme="light"] {
   --background: #fdfdfd;
   --foreground: #282728;
-  --accent: #006cac;
+  --accent: #c8382a;
   --accent-foreground: #ffffff;
   --muted: #e6e6e6;
-  --muted-foreground: #6b7280;
+  --muted-foreground: #5c5c5c;
   --border: #ece9e9;
 }
 
@@ -26,9 +26,9 @@
 [data-theme="dark"] {
   --background: #212737;
   --foreground: #eaedf3;
-  --accent: #ff6b01;
-  --accent-foreground: #ffffff;
+  --accent: #ff7a63;
+  --accent-foreground: #212737;
   --muted: #343f60;
   --muted-foreground: #afb9ca;
-  --border: #ab4b08;
+  --border: #3a4566;
 }
