@@ -23,7 +23,8 @@ import {
 import config from "./astro-paper.config";
 
 export default defineConfig({
-  site: config.site.url,
+  site: "https://chiusan.github.io",
+  base: "/blog",
   integrations: [
     mdx(),
     sitemap({
